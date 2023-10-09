@@ -1,0 +1,2 @@
+Aqui he hecho un form para crear un apartado que se llame operacion, y en el php se recoge el contenido calculo a traves
+de el POST, utilizo el eval para evaluar la operacion que coloquemos y despues se muestra el resultado de la operacion.

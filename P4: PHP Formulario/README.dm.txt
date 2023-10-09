@@ -1,0 +1,1 @@
+No me ha resultado dificil realizar estos ejercicios, excepto el 4 que me ha parecido más que dificil complicado de encontrar que te salga bien del todo
